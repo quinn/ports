@@ -10,7 +10,7 @@ Small CLI for stable local service port allocation.
 ## Install
 
 ```bash
-go build -o ports .
+go install quinn.io/ports@latest
 ```
 
 Place `ports` on your `PATH` (or invoke it as `./ports`).
